@@ -1,4 +1,7 @@
 # BSc RP 2425 - Dimitar Smenovski
+The code in this repository is part of the 2025 CSE3000 Research Project course at TU Delft.
+
+The thesis can be found at <a>https://resolver.tudelft.nl/uuid:0e9e95d2-f304-48e8-8b74-29ff7f7227e8</a>.
 
 ## Pipeline
 The order in which to run the scripts is as follows:
